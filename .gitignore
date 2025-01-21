@@ -10,5 +10,4 @@
 .DS_Store
 
 /captures
-.externalNativeBuild
-.cxx
+

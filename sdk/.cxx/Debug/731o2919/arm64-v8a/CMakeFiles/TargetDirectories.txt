@@ -1,0 +1,3 @@
+C:/Users/Admin/Documents/ST091_Metal-Sensor-release-v1.0.0/sdk/.cxx/Debug/731o2919/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
+C:/Users/Admin/Documents/ST091_Metal-Sensor-release-v1.0.0/sdk/.cxx/Debug/731o2919/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/ST091_Metal-Sensor-release-v1.0.0/sdk/.cxx/Debug/731o2919/arm64-v8a/CMakeFiles/rebuild_cache.dir

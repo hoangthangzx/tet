@@ -1,0 +1,1 @@
+C:\Users\Admin\AndroidStudioProjects\LVTapp\ST073_Metal_Detector_2\sdk\libcxx_helper\CMakeLists.txt

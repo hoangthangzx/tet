@@ -1,0 +1,1 @@
+C:\Users\Admin\AndroidStudioProjects\LVTapp\ST073_Metal_Detector_2\sdk\build\intermediates\cxx\RelWithDebInfo\fdg2e725\obj\arm64-v8a
