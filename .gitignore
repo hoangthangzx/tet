@@ -13,9 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
-*.so
 *.a
 *.aar
-*.apk
 *.ap_
 *.aab
