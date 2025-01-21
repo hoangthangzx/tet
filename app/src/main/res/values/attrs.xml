@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomTheme">
+        <attr name="backGroundMetal" format="reference" />
+        <attr name="imvMetal" format="reference" />
+        <attr name="backGroundItem" format="reference" />
+        <attr name="backGroundRegime" format="reference" />
+        <attr name="bgrmetal" format="reference" />
+        <attr name="hd" format="reference" />
+        <attr name="fontTheme" format="reference" />
+        <attr name="fontColor" format="reference" />
+        <attr name="lnOr" format="reference" />
+        <attr name="lnGravity" format="reference" />
+        <attr name="icst" format="reference" />
+        <attr name="bd" format="reference" />
+        <attr name="selecttheme" format="reference" />
+        <attr name="FlashOn" format="reference" />
+        <attr name="vibrateon" format="reference" />
+        <attr name="musicon" format="reference" />
+        <attr name="clxyz" format="reference" />
+        <attr name="colorx" format="reference" />
+        <attr name="colory" format="reference" />
+        <attr name="colorz" format="reference" />
+        <attr name="Flashoff" format="reference" />
+        <attr name="vibrateoff" format="reference" />
+        <attr name="musicoff" format="reference" />
+        <attr name="icb" format="reference" />
+    </declare-styleable>
+</resources>

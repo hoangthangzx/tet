@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834209896599",
+    "project_id": "st091-metalsensor",
+    "storage_bucket": "st091-metalsensor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834209896599:android:a7ed30143c7e320ae0b1d2",
+        "android_client_info": {
+          "package_name": "com.metalsensor.gold.detector.finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqSB6rRdlXowAIvydCl-_DGFHsGviEaJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

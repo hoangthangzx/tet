@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bgrhome">
+
+        <TextView
+            android:id="@+id/tvPer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:text="@string/permission"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="255dp"
+            android:layout_height="170dp"
+            android:scaleType="fitXY"
+            android:layout_marginTop="24dp"
+            android:src="@drawable/image_permission"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvPer" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:layout_marginBottom="22dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView2"
+            app:layout_constraintWidth_percent=".9" />
+
+        <LinearLayout
+            android:id="@+id/lnNotification"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_marginStart="17dp"
+            android:background="@drawable/bg_per_8dp"
+            android:layout_marginEnd="17dp"
+            android:layout_marginTop="20dp"
+            android:elevation="4dp"
+            android:gravity="center_vertical"
+            android:visibility="visible"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lnCamera">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="16dp"
+                android:layout_weight="1"
+                android:text="@string/notification"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imvSwitchOnMedia"
+                android:layout_width="56dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="16dp"
+                android:src="@drawable/switch_on"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/imvSwitchOffMedia"
+                android:layout_width="56dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="16dp"
+                android:src="@drawable/switch_off"
+                android:visibility="visible" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/lnCamera"
+            android:layout_width="0dp"
+            android:layout_height="56dp"
+            android:layout_marginStart="17dp"
+            android:layout_marginEnd="17dp"
+            android:background="@drawable/bg_per_8dp"
+            android:elevation="4dp"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="16dp"
+                android:layout_weight="1"
+                android:text="@string/camera"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imvSwitchOnStorage"
+                android:layout_width="56dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="16dp"
+                android:src="@drawable/switch_on"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/imvSwitchOffStorage"
+                android:layout_width="56dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="16dp"
+                android:src="@drawable/switch_off"
+                android:visibility="visible" />
+        </LinearLayout>
+
+
+        <!--        <ImageView-->
+        <!--            android:layout_width="0dp"-->
+        <!--            android:layout_height="46.5dp"-->
+        <!--            android:layout_marginStart="16dp"-->
+        <!--            android:layout_marginEnd="16dp"-->
+        <!--            android:src="@drawable/bg_gradient"-->
+        <!--            app:layout_constraintBottom_toBottomOf="@+id/lnStorage"-->
+        <!--            app:layout_constraintTop_toTopOf="@id/lnStorage"-->
+        <!--            app:layout_constraintEnd_toEndOf="parent"-->
+        <!--            app:layout_constraintStart_toStartOf="parent" />-->
+
+        <!--        <LinearLayout-->
+        <!--            android:id="@+id/lnStorage"-->
+        <!--            android:layout_width="0dp"-->
+        <!--            android:layout_height="44dp"-->
+        <!--            android:layout_marginStart="17dp"-->
+        <!--            android:layout_marginEnd="17dp"-->
+        <!--            android:background="@drawable/bg_black_8dp"-->
+        <!--            android:elevation="4dp"-->
+        <!--            android:layout_marginTop="20dp"-->
+        <!--            android:gravity="center_vertical"-->
+        <!--            app:layout_constraintEnd_toEndOf="parent"-->
+        <!--            app:layout_constraintStart_toStartOf="parent"-->
+        <!--            app:layout_constraintTop_toBottomOf="@+id/lnCamera">-->
+
+        <!--            <TextView-->
+        <!--                android:layout_width="0dp"-->
+        <!--                android:layout_height="wrap_content"-->
+        <!--                android:layout_gravity="center"-->
+        <!--                android:layout_marginStart="16dp"-->
+        <!--                android:layout_weight="1"-->
+        <!--                android:text="@string/storage"-->
+        <!--                android:textColor="@color/white"-->
+        <!--                android:textSize="14sp"-->
+        <!--                android:textStyle="bold" />-->
+
+        <!--            <ImageView-->
+        <!--                android:id="@+id/imvSwitchOnMediaStorage"-->
+        <!--                android:layout_width="54dp"-->
+        <!--                android:layout_height="28dp"-->
+        <!--                android:layout_gravity="center_vertical"-->
+        <!--                android:layout_marginEnd="16dp"-->
+        <!--                android:src="@drawable/switch_on"-->
+        <!--                android:visibility="gone" />-->
+
+        <!--            <ImageView-->
+        <!--                android:id="@+id/imvSwitchOffMediaStorage"-->
+        <!--                android:layout_width="54dp"-->
+        <!--                android:layout_height="28dp"-->
+        <!--                android:layout_gravity="center_vertical"-->
+        <!--                android:layout_marginEnd="16dp"-->
+        <!--                android:src="@drawable/switch_off"-->
+        <!--                android:visibility="visible" />-->
+        <!--        </LinearLayout>-->
+
+
+        <TextView
+            android:id="@+id/tvContinue"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/continue_1"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#5CFCDC"
+            android:layout_marginTop="135dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/lnCamera" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

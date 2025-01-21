@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color2">#690243</color>
+    <color name="colorx1">#FFF630</color>
+    <color name="colory1">#2FED00</color>
+    <color name="colorz1">#FF002E</color>
+    <color name="clxyz1">#FFFFFFFF</color>
+
+    <color name="colorx2">#FFF630</color>
+    <color name="colory2">#A0FFFF</color>
+    <color name="colorz2">#FF002E</color>
+    <color name="clxyz2">#690243</color>
+
+    <color name="colorx3">#40CE5D</color>
+    <color name="colory3">#3DF8FF</color>
+    <color name="colorz3">#FF002E</color>
+    <color name="clxyz3">#D1D1D1</color>
+
+    <color name="colorx4">#A0251A</color>
+    <color name="colory4">#F1F10F</color>
+    <color name="colorz4">#1C6CA6</color>
+    <color name="clxyz4">#381E05</color>
+
+    <color name="colorx5">#0ED4D4</color>
+    <color name="colory5">#FF2079</color>
+    <color name="colorz5">#FFD306</color>
+    <color name="clxyz5">#D1D1D1</color>
+
+    <color name="colorx7">#A0FFFF</color>
+    <color name="colory7">#FCFF04</color>
+    <color name="colorz7">#FF002E</color>
+    <color name="clxyz7">#001418</color>
+
+    <color name="colorx8">#40CE5D</color>
+    <color name="colory8">#3DF8FF</color>
+    <color name="colorz8">#FF002E</color>
+    <color name="clxyz8">#FFFFFF</color>
+
+    <color name="colorx9">#EB5556</color>
+    <color name="colory9">#32BC0F</color>
+    <color name="colorz9">#FF0692</color>
+    <color name="clxyz9">#001418</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="color_app">#2BD9FF</color>
+    <color name="white_80">#CDFFFFFF</color>
+    <color name="white_10">#19FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white_70">#B2FFFFFF</color>
+    <color name="white_50">#66FFFFFF</color>
+    <color name="theme9_bg">#020e1b</color>
+    <color name="theme8_color">#fe34fe</color>
+    <color name="theme9_color">#00D6FF</color>
+    <color name="theme2_color">#FFDEFF</color>
+    <color name="theme1_color">#98FFFF</color>
+    <color name="theme5_color">#FFFFE2</color>
+    <color name="theme3_color">#FFFFE2</color>
+    <color name="theme7_color">#FFFFFF</color>
+    <color name="theme10_color">#FF9E00</color>
+    <color name="theme4_color">#FFFFFF</color>
+    <color name="theme6_color">#FFFFFF</color>
+    <color name="dialog_color">#1A1B21</color>
+    <color name="dialog_color_10">#081A1B21</color>
+    <color name="theme10_gr1">#FF9E00</color>
+    <color name="theme10_gr2">#EB8700</color>
+    <color name="theme10_gr3">#B84E00</color>
+    <color name="theme10_gr4">#841400</color>
+
+    <color name="theme9_gr1">#003399</color>
+    <color name="theme9_gr2">#00B6EB</color>
+    <color name="theme9_gr3">#95FFFF</color>
+
+
+    <color name="theme2_gr1">#FFDEFF</color>
+    <color name="theme2_gr2">#FFD5FF</color>
+    <color name="theme2_gr3">#FFCAFF</color>
+    <color name="theme2_gr4">#FF93FF</color>
+
+    <color name="theme4_text_color">#B30EC1</color>
+    <color name="proces1">#00FFC3</color>
+</resources>

@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "BUNDLE",
+    "kind": "RegularFile"
+  },
+  "applicationId": "com.metalsensor.gold.detector.finder",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "outputFile": "../../../../../release/Metal_Detector_1.0.0_01.20.2025-release.aab"
+    }
+  ],
+  "elementType": "File"
+}

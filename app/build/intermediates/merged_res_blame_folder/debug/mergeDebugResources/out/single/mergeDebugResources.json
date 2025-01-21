@@ -1,0 +1,1338 @@
+[
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_coinbt2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/coinbt2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_hd3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/hd3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_flag_portugeese.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_flag_portugeese.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/raw_loading.json.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/raw/loading.json"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme1_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme1_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_star_on.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_star_on.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icb3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icb3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_dialog_no_coin.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/dialog_no_coin.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_select_theme.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_select_theme.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_speed_5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/speed_5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_nointernet.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/nointernet.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_meltal_gold.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/meltal_gold.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ts.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ts.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_flex.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/flex.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_about.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_about.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_fragment_scan.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_back.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_back.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_noitem.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/noitem.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_interact.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_interact.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_info.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/info.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_x_theme1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_x_theme1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_star_off.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_star_off.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_diameter.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/diameter.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_radius_15dp.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_radius_15dp.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rate_five.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rate_five.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_flag_english.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_flag_english.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_khung.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/khung.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ln_regime_theme1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ln_regime_theme1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme7_font.otf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme7_font.otf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icbackgold.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icbackgold.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_device.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/device.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime10.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime10.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_imageclick.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/imageclick.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ngrhome5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ngrhome5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_imv_dialog_note_2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/imv_dialog_note_2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_play.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_play.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd10.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd10.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_splash.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_about_coin.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_about_coin.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_dialog_saving.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/dialog_saving.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_hd4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/hd4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_intro.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrstnull.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrstnull.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_nameapp.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/nameapp.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_language_8dp.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_language_8dp.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_gradient.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/gradient.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icback.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icback.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_kim4.png.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/kim4.png"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_alarm_sound.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_alarm_sound.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_kim7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/kim7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme8_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme8_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_btn_dialog.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_btn_dialog.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_hd2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/hd2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrvolume.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrvolume.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/xml_data_extraction_rules.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_kim8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/kim8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_nen2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/nen2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_scan2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/scan2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome.png.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome.png"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/raw_sound_alarm.mp3.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/raw/sound_alarm.mp3"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/raw_splash_animation.json.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/raw/splash_animation.json"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_source_sans_pro.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/source_sans_pro.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ringtonenull.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ringtonenull.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_nen.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/nen.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_language.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_language.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_image_permission.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/image_permission.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_musicoff.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/musicoff.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_kim10.png.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/kim10.png"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_flag_spanish.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_flag_spanish.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flasscamera.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flasscamera.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_roadrage_regular.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/roadrage_regular.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme6_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme6_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_sil.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/sil.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_font_ut.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/font_ut.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_select_theme.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_select_theme.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ts4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ts4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_switch_off.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/switch_off.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_hd5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/hd5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_intro3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/intro3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rate_rero.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rate_rero.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_custom_dialog_note.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/custom_dialog_note.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_rate.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_rate.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_flag_french.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_flag_french.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_dot_pick.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/dot_pick.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_music4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/music4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-hdpi_logo.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-hdpi/logo.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_hd7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/hd7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icshare.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icshare.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_main.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_nentia.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/nentia.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xhdpi_logo.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xhdpi/logo.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/raw_beep1.mp3.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/raw/beep1.mp3"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme2_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme2_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_fragment_coinlibrary.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/fragment_coinlibrary.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_flag_indo.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_flag_indo.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_item_language.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ts10.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ts10.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_next_right.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_next_right.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_speed_6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/speed_6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_flag_hindi.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_flag_hindi.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_switch_on.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/switch_on.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_vibrate_off.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_vibrate_off.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrst.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrst.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_setting.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_setting.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrsetvalume.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrsetvalume.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icb7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icb7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_item_intro.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_intro.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_home.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_xuong.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/xuong.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rate_four.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rate_four.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme9_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme9_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_cham.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/cham.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_music_on.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_music_on.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_policy.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_policy.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rateus.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rateus.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_hd.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/hd.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_intro1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/intro1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icb5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icb5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_trigger_value.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_trigger_value.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_imv_ut.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/imv_ut.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_nen4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/nen4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xxxhdpi_logo.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xxxhdpi/logo.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_note.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_note.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icratest.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icratest.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme10.png.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme10.png"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_flash_off.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_flash_off.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_imv_note_dialog.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/imv_note_dialog.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rate_one.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rate_one.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_tick.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_tick.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flassoff4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flassoff4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_meltal_coin.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/meltal_coin.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme4_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme4_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bagach.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bagach.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme5_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme5_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_viribrate4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/viribrate4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_kim3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/kim3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgehome7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgehome7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_dialog.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_dialog.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_gradientdot.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/gradientdot.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ichome.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ichome.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_hd6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/hd6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_custom_dialog_noti.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/custom_dialog_noti.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_imagescan.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/imagescan.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_iclanguage.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/iclanguage.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrnointernet.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrnointernet.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_seek_bar.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_seek_bar.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_item_theme.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_theme.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-mdpi_logo.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-mdpi/logo.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_library2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/library2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_iconx.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/iconx.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter10.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter10.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/xml_backup_rules.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flassoff5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flassoff5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flashoff.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flashoff.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_pop_off.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_pop_off.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrsearch.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrsearch.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_more.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_more.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_kn.png.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/kn.png"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_dot_not_pick2.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/dot_not_pick2.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_progress.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/progress.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_it6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/it6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_coinbutton.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/coinbutton.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_themedialog.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/themedialog.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_imagelbrr.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/imagelbrr.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai10.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai10.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_language.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_language.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme10.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme10.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flasson4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flasson4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_coinrecognition.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_coinrecognition.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_kim.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/kim.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_more.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_more.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_item_coin.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_coin.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icst3.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icst3.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_custom_dialog_permission.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/custom_dialog_permission.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_year.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/year.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_apply.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/apply.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme3_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme3_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rate_three.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rate_three.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rate_two.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rate_two.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_viribrate5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/viribrate5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/raw_beep2.mp3.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/raw/beep2.mp3"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_vibrate_on.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_vibrate_on.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/font_theme10_font.ttf.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/font/theme10_font.ttf"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_chup.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/chup.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrcoin.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrcoin.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_elip.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/elip.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_speed_1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/speed_1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_gd8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/gd8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volume8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volume8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_theme4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/theme4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_flag_germani.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_flag_germani.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_dot_not_pick.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/dot_not_pick.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_permission.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/raw_beep.mp3.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/raw/beep.mp3"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrateoff.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrateoff.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_per_8dp.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_per_8dp.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_volumeof5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/volumeof5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime6.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime6.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_imv_x_dialog.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/imv_x_dialog.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_detecter2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/detecter2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_about.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_result.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icb2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icb2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_next.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/next.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_logo.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/logo.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_regime8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/regime8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_intro2.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/intro2.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_language.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_language.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_15dp_white.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_15dp_white.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_flash_on.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_flash_on.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass5.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass5.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_edit_text.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_edit_text.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icb8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icb8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_pause.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_pause.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_rounded_corner.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/rounded_corner.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_setting.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrmeltal.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrmeltal.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_pop_on.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_pop_on.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ts7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ts7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/mipmap-xxhdpi_logo.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/mipmap-xxhdpi/logo.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_iconxtt.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/iconxtt.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_trangthai1.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/trangthai1.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bg_boder_btn.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bg_boder_btn.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_arrow.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/arrow.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_vibrate8.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/vibrate8.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icb4.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icb4.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_weight.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/weight.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrhome10.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrhome10.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icsearch.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icsearch.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ic_rate_us.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ic_rate_us.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_flass7.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/flass7.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_dialog_rate.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icon_music_off.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icon_music_off.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_gold_detecter.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_gold_detecter.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/layout_activity_metal_detector.xml.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_metal_detector.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bgrconten.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bgrconten.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_bd9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/bd9.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_icitn.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/icitn.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_selecttheme.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/selecttheme.webp"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-debug-95:/drawable_ts9.webp.flat",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/drawable/ts9.webp"
+    }
+]

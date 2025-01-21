@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percents_5" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="ShapeAppearanceOverlay.App.CornerSize50Percents_15" parent="">
+        <item name="cornerSize">15%</item>
+    </style>
+    <style name="SavingDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="backGroundMetal">@drawable/bgrhome</item>
+        <item name="imvMetal">@drawable/speed_1</item>
+        <item name="backGroundRegime">@drawable/regime1</item>
+        <item name="bgrmetal">@drawable/trangthai1</item>
+        <item name="hd">@drawable/hd</item>
+        <item name="fontFamily">@font/theme1_font</item>
+        <item name="fontColor">@color/white</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst</item>
+        <item name="selecttheme">@drawable/selecttheme</item>
+        <item name="FlashOn">@drawable/flass1</item>
+        <item name="vibrateon">@drawable/vibrate1</item>
+        <item name="musicon">@drawable/volume1</item>
+        <item name="bd">@drawable/bd1</item>
+        <item name="clxyz">@color/clxyz1</item>
+        <item name="colorx">@color/colorx1</item>
+        <item name="colory">@color/colory1</item>
+        <item name="colorz">@color/colorz1</item>
+        <item name="Flashoff">@drawable/flassoff4</item>
+        <item name="vibrateoff">@drawable/vibrateoff</item>
+        <item name="musicoff">@drawable/musicoff</item>
+        <item name="icb">@drawable/icback</item>
+    </style>
+
+    <style name="Theme2" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="fontColor">@color/color2</item>
+        <item name="backGroundMetal">@drawable/bgrhome2</item>
+        <item name="backGroundRegime">@drawable/regime2</item>
+        <item name="bgrmetal">@drawable/trangthai2</item>
+        <item name="hd">@drawable/hd2</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst2</item>
+        <item name="selecttheme">@drawable/selecttheme2</item>
+        <item name="FlashOn">@drawable/flass2</item>
+        <item name="vibrateon">@drawable/vibrate2</item>
+        <item name="musicon">@drawable/volume2</item>
+        <item name="bd">@drawable/bd2</item>
+        <item name="clxyz">@color/clxyz2</item>
+        <item name="colorx">@color/colorx2</item>
+        <item name="colory">@color/colory2</item>
+        <item name="colorz">@color/colorz2</item>
+        <item name="Flashoff">@drawable/vibrate2</item>
+        <item name="vibrateoff">@drawable/flass2</item>
+        <item name="musicoff">@drawable/volume2</item>
+        <item name="icb">@drawable/icb2</item>
+    </style>
+
+    <style name="Theme3" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="fontColor">@color/white</item>
+        <item name="backGroundMetal">@drawable/bgrhome3</item>
+        <item name="backGroundRegime">@drawable/regime3</item>
+        <item name="bgrmetal">@drawable/trangthai3</item>
+        <item name="hd">@drawable/hd2</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst3</item>
+        <item name="selecttheme">@drawable/selecttheme3</item>
+        <item name="FlashOn">@drawable/flass3</item>
+        <item name="vibrateon">@drawable/vibrate3</item>
+        <item name="musicon">@drawable/volume3</item>
+        <item name="bd">@drawable/bd3</item>
+        <item name="clxyz">@color/clxyz2</item>
+        <item name="colorx">@color/colorx2</item>
+        <item name="colory">@color/colory2</item>
+        <item name="colorz">@color/colorz2</item>
+        <item name="Flashoff">@drawable/flassoff4</item>
+        <item name="vibrateoff">@drawable/vibrateoff</item>
+        <item name="musicoff">@drawable/musicoff</item>
+        <item name="icb">@drawable/icb3</item>
+    </style>
+
+    <style name="Theme4" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="fontColor">@color/white</item>
+        <item name="backGroundMetal">@drawable/bgrhome4</item>
+        <item name="backGroundRegime">@drawable/regime4</item>
+        <item name="bgrmetal">@drawable/trangthai4</item>
+        <item name="hd">@drawable/hd4</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst4</item>
+        <item name="selecttheme">@drawable/selecttheme4</item>
+        <item name="FlashOn">@drawable/flasson4</item>
+        <item name="vibrateon">@drawable/vibrate4</item>
+        <item name="musicon">@drawable/volume4</item>
+        <item name="bd">@drawable/bd4</item>
+        <item name="clxyz">@color/clxyz4</item>
+        <item name="colorx">@color/colorx4</item>
+        <item name="colory">@color/colory4</item>
+        <item name="colorz">@color/colorz4</item>
+        <item name="Flashoff">@drawable/flassoff4</item>
+        <item name="vibrateoff">@drawable/viribrate4</item>
+        <item name="musicoff">@drawable/music4</item>
+        <item name="icb">@drawable/icb4</item>
+    </style>
+
+    <style name="Theme5" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="fontColor">@color/white</item>
+        <item name="backGroundMetal">@drawable/bgrhome5</item>
+        <item name="backGroundRegime">@drawable/regime5</item>
+        <item name="bgrmetal">@drawable/trangthai5</item>
+        <item name="hd">@drawable/hd5</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst5</item>
+        <item name="selecttheme">@drawable/selecttheme5</item>
+        <item name="FlashOn">@drawable/flass5</item>
+        <item name="vibrateon">@drawable/vibrate5</item>
+        <item name="musicon">@drawable/volume5</item>
+        <item name="bd">@drawable/bd5</item>
+        <item name="clxyz">@color/clxyz5</item>
+        <item name="colorx">@color/colorx5</item>
+        <item name="colory">@color/colory5</item>
+        <item name="colorz">@color/colorz5</item>
+        <item name="Flashoff">@drawable/flassoff5</item>
+        <item name="vibrateoff">@drawable/viribrate5</item>
+        <item name="musicoff">@drawable/volumeof5</item>
+        <item name="icb">@drawable/icb5</item>
+    </style>
+
+    <style name="Theme6" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="backGroundMetal">@drawable/bgrhome</item>
+        <item name="imvMetal">@drawable/speed_6</item>
+        <item name="backGroundRegime">@drawable/regime6</item>
+        <item name="bgrmetal">@drawable/trangthai6</item>
+        <item name="hd">@drawable/hd6</item>
+        <item name="fontFamily">@font/theme1_font</item>
+        <item name="fontColor">@color/white</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst6</item>
+        <item name="selecttheme">@drawable/selecttheme6</item>
+        <item name="FlashOn">@drawable/flass6</item>
+        <item name="vibrateon">@drawable/vibrate6</item>
+        <item name="musicon">@drawable/volume6</item>
+        <item name="bd">@drawable/bd1</item>
+        <item name="clxyz">@color/clxyz1</item>
+        <item name="colorx">@color/colorx1</item>
+        <item name="colory">@color/colory1</item>
+        <item name="colorz">@color/colorz1</item>
+        <item name="Flashoff">@color/transparent</item>
+        <item name="vibrateoff">@color/transparent</item>
+        <item name="musicoff">@color/transparent</item>
+        <item name="icb">@drawable/icbackgold</item>
+    </style>
+
+    <style name="Theme7" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="backGroundMetal">@drawable/bgehome7</item>
+        <item name="imvMetal">@drawable/speed_6</item>
+        <item name="backGroundRegime">@drawable/regime7</item>
+        <item name="bgrmetal">@drawable/trangthai7</item>
+        <item name="hd">@drawable/hd7</item>
+        <item name="fontFamily">@font/theme1_font</item>
+        <item name="fontColor">@color/white</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst7</item>
+        <item name="selecttheme">@drawable/selecttheme7</item>
+        <item name="FlashOn">@drawable/flass7</item>
+        <item name="vibrateon">@drawable/vibrate7</item>
+        <item name="musicon">@drawable/volume7</item>
+        <item name="bd">@drawable/bd7</item>
+        <item name="clxyz">@color/clxyz7</item>
+        <item name="colorx">@color/colorx7</item>
+        <item name="colory">@color/colory7</item>
+        <item name="colorz">@color/colorz7</item>
+        <item name="Flashoff">@color/transparent</item>
+        <item name="vibrateoff">@color/transparent</item>
+        <item name="musicoff">@color/transparent</item>
+        <item name="icb">@drawable/icb7</item>
+    </style>
+
+    <style name="Theme8" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="backGroundMetal">@drawable/bgrhome8</item>
+        <item name="imvMetal">@drawable/speed_6</item>
+        <item name="backGroundRegime">@drawable/regime8</item>
+        <item name="bgrmetal">@drawable/trangthai8</item>
+        <item name="hd">@drawable/gd8</item>
+        <item name="fontFamily">@font/theme1_font</item>
+        <item name="fontColor">@color/white</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst8</item>
+        <item name="selecttheme">@drawable/selecttheme8</item>
+        <item name="FlashOn">@drawable/flass8</item>
+        <item name="vibrateon">@drawable/vibrate8</item>
+        <item name="musicon">@drawable/volume8</item>
+        <item name="bd">@drawable/bd8</item>
+        <item name="clxyz">@color/clxyz8</item>
+        <item name="colorx">@color/colorx8</item>
+        <item name="colory">@color/colory8</item>
+        <item name="colorz">@color/colorz8</item>
+        <item name="Flashoff">@color/transparent</item>
+        <item name="vibrateoff">@color/transparent</item>
+        <item name="musicoff">@color/transparent</item>
+        <item name="icb">@drawable/icb8</item>
+    </style>
+
+    <style name="Theme9" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="backGroundMetal">@drawable/bgrhome9</item>
+        <item name="imvMetal">@drawable/speed_6</item>
+        <item name="backGroundRegime">@drawable/regime9</item>
+        <item name="bgrmetal">@drawable/trangthai9</item>
+        <item name="hd">@drawable/hd5</item>
+        <item name="fontFamily">@font/theme1_font</item>
+        <item name="fontColor">@color/white</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst5</item>
+        <item name="selecttheme">@drawable/selecttheme9</item>
+        <item name="FlashOn">@drawable/flass9</item>
+        <item name="vibrateon">@drawable/vibrate9</item>
+        <item name="musicon">@drawable/volume9</item>
+        <item name="bd">@drawable/bd9</item>
+        <item name="clxyz">@color/clxyz9</item>
+        <item name="colorx">@color/colorx9</item>
+        <item name="colory">@color/colory9</item>
+        <item name="colorz">@color/colorz9</item>
+        <item name="Flashoff">@color/transparent</item>
+        <item name="vibrateoff">@color/transparent</item>
+        <item name="musicoff">@color/transparent</item>
+        <item name="icb">@drawable/icb5</item>
+    </style>
+
+    <style name="Theme10" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <item name="android:statusBarColor">@color/transparent</item>
+        <item name="backGroundMetal">@drawable/bgrhome10</item>
+        <item name="imvMetal">@drawable/speed_6</item>
+        <item name="backGroundRegime">@drawable/regime10</item>
+        <item name="bgrmetal">@drawable/trangthai10</item>
+        <item name="hd">@drawable/hd5</item>
+        <item name="fontFamily">@font/theme1_font</item>
+        <item name="fontColor">@color/white</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="icst">@drawable/icst5</item>
+        <item name="selecttheme">@drawable/selecttheme10</item>
+        <item name="FlashOn">@drawable/flasson4</item>
+        <item name="vibrateon">@drawable/vibrate4</item>
+        <item name="musicon">@drawable/volume4</item>
+        <item name="bd">@drawable/bd10</item>
+        <item name="clxyz">@color/clxyz9</item>
+        <item name="colorx">@color/colorx9</item>
+        <item name="colory">@color/colory9</item>
+        <item name="colorz">@color/colorz9</item>
+        <item name="Flashoff">@color/transparent</item>
+        <item name="vibrateoff">@color/transparent</item>
+        <item name="musicoff">@color/transparent</item>
+        <item name="icb">@drawable/icb4</item>
+    </style>
+
+</resources>

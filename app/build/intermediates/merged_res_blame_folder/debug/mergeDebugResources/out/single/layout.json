@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/dialog_no_coin.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/dialog_no_coin.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_home.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/custom_dialog_note.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/custom_dialog_note.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_more.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_more.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_gold_detecter.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_gold_detecter.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/dialog_saving.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/dialog_saving.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_interact.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_interact.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/custom_dialog_noti.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/custom_dialog_noti.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_coinrecognition.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_coinrecognition.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/fragment_coinlibrary.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/fragment_coinlibrary.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_about.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/nointernet.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/nointernet.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_setting.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_setting.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_main.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_result.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_about_coin.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_about_coin.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/dialog_rate.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/dialog_rate.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/fragment_scan.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/item_intro.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_intro.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/item_language.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_intro.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_splash.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/item_coin.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_coin.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_language.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_language.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/item_theme.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/item_theme.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_metal_detector.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_metal_detector.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_permission.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_permission.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/custom_dialog_permission.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/custom_dialog_permission.xml"
+    },
+    {
+        "merged": "com.metalsensor.gold.detector.finder.app-mergeDebugResources-94:/layout/activity_select_theme.xml",
+        "source": "com.metalsensor.gold.detector.finder.app-main-97:/layout/activity_select_theme.xml"
+    }
+]

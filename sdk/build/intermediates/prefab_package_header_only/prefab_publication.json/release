@@ -1,0 +1,17 @@
+{
+  "installationFolder": "C:\\Users\\Admin\\Documents\\ST091_Metal-Sensor-release-v1.0.0\\sdk\\build\\intermediates\\prefab_package\\release\\prefab",
+  "gradlePath": ":sdk",
+  "packageInfo": {
+    "packageName": "sdk",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\Admin\\Documents\\ST091_Metal-Sensor-release-v1.0.0\\sdk\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="54b74431-6ea1-45ad-97d3-2c599d78d8f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bd10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bd7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bd8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bd9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bgehome7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bgrhome.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bgrhome10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bgrhome8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bgrhome9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/bgrnointernet.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/device.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flass1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flass2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flass3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flass7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flass8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flass9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flasscamera.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flassoff4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flassoff5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/flasson4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/gd8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/hd7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icb1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icb2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icb3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icb4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icb5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icb7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icb8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icitn.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/iconx.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/iconxtt.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icst7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/icst8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/kim7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/kim8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/music4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/noitem.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/regime9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme6.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/selecttheme9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/theme7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/theme8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/theme9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/trangthai10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/trangthai7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/trangthai8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/trangthai9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ts10.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ts7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ts9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/vibrate1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/vibrate2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/vibrate3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/vibrate7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/vibrate8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/vibrate9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/vibrateoff.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/viribrate4.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/viribrate5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/volume1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/volume2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/volume3.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/volume7.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/volume8.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/volume9.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/volumeof5.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/raw/loading.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/output-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/release/output-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/MyFirebaseMessagingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/MyFirebaseMessagingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/adapter/CoinAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/adapter/CoinAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Kim2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Kim2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme1.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/Theme9.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/themetet.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/customview/themetet.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/ui/AboutCoinActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/ui/AboutCoinActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/ui/MetalDetectorActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/ui/MetalDetectorActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/ui/frament/ScanFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/ui/frament/ScanFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/utils/Const.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/metaldetector/golddetector/finder/utils/Const.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bd10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bd7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bd8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bd9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bgehome7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bgrhome.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bgrhome10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bgrhome8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bgrhome9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bgrnointernet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/bgrsetvalume.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/bgrsetvalume.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flass1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flass2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flass3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flass7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flass8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flass9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flasscamera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flassoff4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flassoff5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/flasson4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/gd8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/hd7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/icitn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/iconx.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/icst7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/icst8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/imv_note_dialog.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/imv_note_dialog.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/kim7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/kim8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/music4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/regime9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/selecttheme9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/theme7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/theme8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/theme9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/trangthai10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/trangthai7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/trangthai8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/trangthai9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ts10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ts7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ts9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/vibrate1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/vibrate2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/vibrate3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/vibrate7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/vibrate8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/vibrate9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/vibrateoff.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/viribrate4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/viribrate5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/volume1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/volume2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/volume3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/volume7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/volume8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/volume9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/volumeof5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/weight.webp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/drawable/weight.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_about_coin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_about_coin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_gold_detecter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_gold_detecter.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_metal_detector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_metal_detector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/custom_dialog_note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/custom_dialog_note.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/custom_dialog_noti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/custom_dialog_noti.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/dialog_saving.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/dialog_saving.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/fragment_coinlibrary.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_coinlibrary.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/attrs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/attrs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "hoangthangzx"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/hoangthangzx/mental.git",
+    "accountId": "32c9c5b3-c98f-4afb-af1c-e5917eb85b53"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2rc22bBEirZBiLo5lGHRnKoXz0V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/AndroidStudioProjects/LVTapp/ST073_Metal_Detector_2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54b74431-6ea1-45ad-97d3-2c599d78d8f8" name="Changes" comment="" />
+      <created>1736843837754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736843837754</updated>
+    </task>
+    <servers />
+  </component>
+</project>
